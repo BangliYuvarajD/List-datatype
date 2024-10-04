@@ -1,0 +1,3 @@
+#Demo of len(list)
+list1=['abcd',147,2.43,'Tom']
+print(len(list1))
