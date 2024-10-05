@@ -1,0 +1,5 @@
+#max(list):-Returns item form the list with maximum value
+list1=[1200,147,2.43,1.12]
+list2=[213,100,289]
+print("maximum value in:",list1,"is",max(list1))
+print("maximum value in:",list2,"is",max(list2))
