@@ -1,0 +1,5 @@
+#min(list):-Returns item from the list with minimum value.
+list1=[1200,147,2.43,1.12]
+list2=[213,100,289]
+print("Minimum value in:",list1,"is",min(list1))
+print("Minimum value in:",list2,"is",min(list2))
