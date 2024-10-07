@@ -1,0 +1,5 @@
+#map(aFunction,aSequence)
+#Example program
+str=input("Enter a list(space separeted):")
+lis=list(map(int,str.split()))
+print(lis)
