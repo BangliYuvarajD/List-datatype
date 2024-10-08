@@ -1,0 +1,6 @@
+#list.append(obj):-This method appends an object obj passed to the existing list.
+
+list=['abcd',147,2.3,'Tom']
+print("old list before Append:",list)
+list.append(100)
+print("New List after Append:",list)
