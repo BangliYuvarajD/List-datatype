@@ -1,0 +1,4 @@
+#list.count(obj):-Returns how many times the object obj appears in a list.
+
+list=['abcd',147,2.43,'Tom',147,200,147]
+print("The number of times",147,"appears in",list,"=",list.count(147))
