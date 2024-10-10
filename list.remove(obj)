@@ -1,0 +1,4 @@
+#list.remove(obj):-Removes object obj from the list
+list1=['abcd',147,2.43,'Tom']
+list1.remove('Tom')
+print(list1)
