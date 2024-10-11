@@ -1,0 +1,4 @@
+#list.index(obj):-Returns index of the object obj if found, otherwise raise an exception indicating that value does not exist.
+
+list1=['abcd',147,2.43,'Tom']
+print(list1.index(2.43))
