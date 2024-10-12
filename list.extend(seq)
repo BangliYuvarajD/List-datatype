@@ -1,0 +1,6 @@
+#list.extend(seq):-Appends the contents in a sequence seq passed to a list
+
+list1=['abcd',147,2.43,'Tom']
+list2=['def',100]
+list1.extend(list2)
+print(list1)
