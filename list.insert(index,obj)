@@ -1,0 +1,6 @@
+#list.insert(index,obj):-reverse a list with object obj inserted at the given index
+
+list1=['abcd',147,2.43,'Tom']
+print("List before insertion:",list1)
+list1.insert(2,222)
+print("List after insertion:",list1)
