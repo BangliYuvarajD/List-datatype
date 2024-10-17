@@ -1,0 +1,5 @@
+#list.reverse():-Reverse object in a lsit
+
+list1=['abcd',147,2.42,'Tom']
+list1.reverse()
+print(list1)
