@@ -1,0 +1,9 @@
+#list.pop([index]):-Removes or returns the last object obj from a list.We can even pop out any item in a list with the index specied.
+
+list1=['abcd',147,2.43,'Tom']
+print("List before poping",list1)
+list1.pop(-1)
+print("List after poping:",list1)
+item=list1.pop(-3)
+print("popped item:",item)
+print("List after poping:",list1)
