@@ -1,0 +1,6 @@
+#list.clear():-Remove all items in a list.
+
+list1=['abcd',147,2.43,'Tom']
+print("list before creating:",list1)
+list1.clear()
+print("list after clearing:",list1)
