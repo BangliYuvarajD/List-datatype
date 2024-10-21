@@ -1,0 +1,8 @@
+#list.copy():-Returns a copy of the list
+
+list1=['abcd',147,2.43,'Tom']
+print("list before clearing:",list1)
+list2=list1.copy()
+list1.clear()
+print("list after clearing:",list1)
+print("copy of the list:",list2)
