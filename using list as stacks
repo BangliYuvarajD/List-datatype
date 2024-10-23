@@ -1,0 +1,8 @@
+#using list as stacks 
+# Example program
+
+stack=[10,20,30,40,50]
+stack.append(60)
+print("stack after appending:",stack)
+stack.pop()
+print("stack after poping:",stack)
